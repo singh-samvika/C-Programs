@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 int main()
-{
+{  //main function
     char s[500], a[500], s2[500], c;
     int len,i,t=0,d=0;
     printf("Enter a string ");
